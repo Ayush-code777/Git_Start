@@ -1,1 +1,1 @@
-<h1> this is the start if git and github</h1>
+<h1> This is the start if git and github</h1>
