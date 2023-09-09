@@ -1,0 +1,33 @@
+#yoyo{
+    background-color: red;
+    text-align: center;
+    font-size: 200px;
+}
+
+.hello{
+    background-color: aliceblue;
+    flex: auto;
+    flex-direction: row;
+}
+
+input[type="text"]{
+    border: 10px solid red;
+    border-radius: 15%;
+}
+
+div h1::first-letter{
+    color: green;
+    font-size: 20px;
+}
+
+div:hover{
+    color: blue;
+    display: flex;
+    opacity: 10%;
+    
+}
+
+div {
+    font-size: xx-large;
+    box-shadow:20px 40px;
+}
